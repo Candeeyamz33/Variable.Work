@@ -1,2 +1,3 @@
 # Variable.Work
-Udemy Tutorial on variables
+
+Variable.Work is my first push to HW assignment for this course
