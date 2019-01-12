@@ -1,0 +1,19 @@
+public class Fruitloop {
+	public static void main(String[] args) {
+		String catthing= "Rocky";
+		String action= "run";
+		String blank= " ";
+		String go= "fast";
+		int myInt=5;  
+		String newstring= catthing + blank + action + blank + go;
+		System.out.println(newstring);
+		
+		while(myInt < 20 ) {
+			System.out.println(newstring + "SLOW DOWN" + myInt);
+		
+			myInt = myInt + 1;
+		}
+	} 
+}
+		
+	
